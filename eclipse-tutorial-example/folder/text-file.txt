@@ -1,2 +1,3 @@
 This is a sample text file.
-This is a second line of texto.
+This is a second line of text.
+Added a third line of text.
